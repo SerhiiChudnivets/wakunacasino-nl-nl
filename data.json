@@ -24,7 +24,7 @@
       "heroSubtitle": "Welkomstbonus",
       "heroBadge": "Wakuna Casino 2026",
       "ctaText": "Ontvang",
-      "tagline": "470% Up To €29,000 ",
+      "tagline": "150% tot €1.000 + 150 FS",
       "heroImage": "/uploads/e15f1437767c2fd04d6231a355e15ba1.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -172,7 +172,7 @@
   "hero_subtitle": "Welkomstbonus",
   "hero_badge": "Wakuna Casino 2026",
   "cta_text": "Ontvang",
-  "tagline": "470% Up To €29,000 ",
+  "tagline": "150% tot €1.000 + 150 FS",
   "features_list": null,
   "footer_text": "© 2026. Wakuna Casino. All rights reserved",
   "popup_text": "Welkomstpakket tot 4000 EUR + 700 FS",
@@ -193,7 +193,7 @@
   "text_color": "#e9e9e9",
   "color_highlight_text": "#f68400",
   "color_main_btn_text": "#051620",
-  "cta_background": "#e8b417",
+  "cta_background": "#f68400",
   "logo": {
     "url": "/uploads/92153caff18a5e2bba6ff2f9920bf4a9.webp",
     "alt": "wakuna casino logo"
@@ -379,8 +379,8 @@
       "question": "How do I find games where bets count toward the bonus wagering requirements?"
     }
   ],
-  "_generated_at": "2026-10-14T12:01:48.869Z",
+  "_generated_at": "2026-10-14T12:02:35.541Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T12:01:49.592Z",
-  "_deploy_trigger": "xu0heo"
+  "_last_deploy": "2026-10-14T12:02:37.155Z",
+  "_deploy_trigger": "r1pedj"
 }
