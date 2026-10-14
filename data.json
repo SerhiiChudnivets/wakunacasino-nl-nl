@@ -1,7 +1,7 @@
 {
   "name": "wakunacasino-nl.nl",
   "site_name": "Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS",
-  "html_head": "\n<link rel=\"canonical\" href=\"https://wakunacasino-nl.nl/nl/\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/\" hreflang=\"nl-BE\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_BE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS\">\n<meta property=\"og:description\" content=\"Spinbob Casino — over 3,000 games, a live casino, a VIP programme and a 470% bonus up to €29,000 + 590 free spins.\">\n<meta property=\"og:url\" content=\"https://wakunacasino-nl.nl/\">\n<meta property=\"og:site_name\" content= \"Wakuna Casino\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"U_wPcDvfSAao67Z1-fbjnF0-BrEwIWnMtpDfm9yUhu8\" />\n<link rel=\"canonical\" href=\"https://wakunacasino-nl.nl/nl/\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/\" hreflang=\"nl-BE\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_BE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS\">\n<meta property=\"og:description\" content=\"Spinbob Casino — over 3,000 games, a live casino, a VIP programme and a 470% bonus up to €29,000 + 590 free spins.\">\n<meta property=\"og:url\" content=\"https://wakunacasino-nl.nl/\">\n<meta property=\"og:site_name\" content= \"Wakuna Casino\">\n",
   "url": "wakunacasino-nl.nl",
   "template": "tupchiy",
   "language_code": "nl-BE",
@@ -102,7 +102,7 @@
       "hero_image": "/uploads/e15f1437767c2fd04d6231a355e15ba1.webp",
       "seo_title": "Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS",
       "seo_description": "Wakuna Casino in 2026: overzicht van bonussen, snelle toegang tot spellen, stortingen vanaf €20 en een beloningsprogramma",
-      "html_head": "\n<link rel=\"canonical\" href=\"https://wakunacasino-nl.nl/nl/\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/\" hreflang=\"nl-BE\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_BE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS\">\n<meta property=\"og:description\" content=\"Spinbob Casino — over 3,000 games, a live casino, a VIP programme and a 470% bonus up to €29,000 + 590 free spins.\">\n<meta property=\"og:url\" content=\"https://wakunacasino-nl.nl/\">\n<meta property=\"og:site_name\" content= \"Wakuna Casino\">\n",
+      "html_head": "<meta name=\"google-site-verification\" content=\"U_wPcDvfSAao67Z1-fbjnF0-BrEwIWnMtpDfm9yUhu8\" />\n<link rel=\"canonical\" href=\"https://wakunacasino-nl.nl/nl/\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/\" hreflang=\"nl-BE\">\n<link rel=\"alternate\" href=\"https://wakunacasino-nl.nl/nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_BE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Wakuna Casino | 1e Bonus 150% tot €1.000 + 150 FS\">\n<meta property=\"og:description\" content=\"Spinbob Casino — over 3,000 games, a live casino, a VIP programme and a 470% bonus up to €29,000 + 590 free spins.\">\n<meta property=\"og:url\" content=\"https://wakunacasino-nl.nl/\">\n<meta property=\"og:site_name\" content= \"Wakuna Casino\">\n",
       "faq_title": "FAQ",
       "hero_badge": "Wakuna Casino 2026",
       "cta_text": "Ontvang",
@@ -367,8 +367,8 @@
       "question": "Hoe installeer je Wakuna op je smartphone zonder het te downloaden via de App Store of Google Play?"
     }
   ],
-  "_generated_at": "2026-10-14T12:27:40.155Z",
+  "_generated_at": "2026-10-14T13:01:17.292Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T12:27:40.916Z",
-  "_deploy_trigger": "2264m"
+  "_last_deploy": "2026-10-14T13:01:17.893Z",
+  "_deploy_trigger": "twjyup"
 }
