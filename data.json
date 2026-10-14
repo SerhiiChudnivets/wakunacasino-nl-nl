@@ -37,54 +37,54 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "/uploads/c8a1b6361d7e764538f48bb65a8d2832.webp",
-          "name": "Aviator",
-          "Name": "Aviator",
-          "logo_alt": "aviator"
+          "logo": "/uploads/298b9572a9fd11b3036de649f1d71e09.webp",
+          "name": "Pho Sho",
+          "Name": "Pho Sho",
+          "logo_alt": "pho sho"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
-          "name": "Book of Dead",
-          "Name": "Book of Dead",
-          "logo_alt": "Book of Dead"
+          "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+          "name": "Chaos Crew",
+          "Name": "Chaos Crew",
+          "logo_alt": "chaos crew"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
-          "name": "Sweet Bonanza",
-          "Name": "Sweet Bonanza",
-          "logo_alt": "sweet bonanza dice"
+          "logo": "/uploads/dde6f1fe371890665a81d210a375c928.webp",
+          "name": "Balloon",
+          "Name": "Balloon",
+          "logo_alt": "Balloon"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
-          "name": "JetX",
-          "Name": "JetX",
-          "logo_alt": "JetX"
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead or Alive",
+          "Name": "Dead or Alive",
+          "logo_alt": "Dead or Alive"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-          "name": "Welcome Pack 470% Up To €29,000 + 590 FS",
-          "Name": "Welcome Pack 470% Up To €29,000 + 590 FS",
-          "logo_alt": "Sport Bonus"
-        },
-        {
-          "link": "/play/",
-          "logo": "/uploads/22c2105fe50e3ff19cf7dcebe4fde551.webp",
-          "name": "Crypto Welcome 110% + 110 FS",
-          "Name": "Crypto Welcome 110% + 110 FS",
+          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+          "name": "Sun Boost-bonus Ontvang 100% bonus op stortingen vanaf 150 EUR ",
+          "Name": "Sun Boost-bonus Ontvang 100% bonus op stortingen vanaf 150 EUR ",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-          "name": "VIP Welcome Pack 600% Up To  €20,000",
-          "Name": "VIP Welcome Pack 600% Up To  €20,000",
-          "logo_alt": "Weekly Bonus"
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "Highroller-bonus 150%  tot 1.500 EUR",
+          "Name": "Highroller-bonus 150%  tot 1.500 EUR",
+          "logo_alt": "Exclusive Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Gratis weddenschap bij eerste storting 100% tot 300 EUR",
+          "Name": "Gratis weddenschap bij eerste storting 100% tot 300 EUR",
+          "logo_alt": "Welcome Bonus"
         }
       ],
       "faq": [],
@@ -285,71 +285,71 @@
   "footer_images": [
     {
       "link": "/play/",
-      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
-      "image_alt": "18+"
+      "image": "/uploads/9a676efc19861467abdc78cea9216323.webp",
+      "image_alt": "gambling therapy"
     },
     {
       "link": "/play/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
+      "image": "/uploads/e057f55387e5d727a875fc3fb9299036.webp",
+      "image_alt": "gamble responsibly"
     },
     {
       "link": "/play/",
-      "image": "/uploads/0265a0cb2e63ae0f2d2aa920b84d53be.webp",
-      "image_alt": "gamstop"
+      "image": "/uploads/57a93b660ed5e455519e3ee7cf0051d9.webp",
+      "image_alt": "dmca protected"
     }
   ],
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/c8a1b6361d7e764538f48bb65a8d2832.webp",
-      "name": "Aviator",
-      "Name": "Aviator",
-      "logo_alt": "aviator"
+      "logo": "/uploads/298b9572a9fd11b3036de649f1d71e09.webp",
+      "name": "Pho Sho",
+      "Name": "Pho Sho",
+      "logo_alt": "pho sho"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
-      "name": "Book of Dead",
-      "Name": "Book of Dead",
-      "logo_alt": "Book of Dead"
+      "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+      "name": "Chaos Crew",
+      "Name": "Chaos Crew",
+      "logo_alt": "chaos crew"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
-      "name": "Sweet Bonanza",
-      "Name": "Sweet Bonanza",
-      "logo_alt": "sweet bonanza dice"
+      "logo": "/uploads/dde6f1fe371890665a81d210a375c928.webp",
+      "name": "Balloon",
+      "Name": "Balloon",
+      "logo_alt": "Balloon"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
-      "name": "JetX",
-      "Name": "JetX",
-      "logo_alt": "JetX"
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-      "name": "Welcome Pack 470% Up To €29,000 + 590 FS",
-      "Name": "Welcome Pack 470% Up To €29,000 + 590 FS",
-      "logo_alt": "Sport Bonus"
-    },
-    {
-      "link": "/play/",
-      "logo": "/uploads/22c2105fe50e3ff19cf7dcebe4fde551.webp",
-      "name": "Crypto Welcome 110% + 110 FS",
-      "Name": "Crypto Welcome 110% + 110 FS",
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Sun Boost-bonus Ontvang 100% bonus op stortingen vanaf 150 EUR ",
+      "Name": "Sun Boost-bonus Ontvang 100% bonus op stortingen vanaf 150 EUR ",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-      "name": "VIP Welcome Pack 600% Up To  €20,000",
-      "Name": "VIP Welcome Pack 600% Up To  €20,000",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Highroller-bonus 150%  tot 1.500 EUR",
+      "Name": "Highroller-bonus 150%  tot 1.500 EUR",
+      "logo_alt": "Exclusive Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Gratis weddenschap bij eerste storting 100% tot 300 EUR",
+      "Name": "Gratis weddenschap bij eerste storting 100% tot 300 EUR",
+      "logo_alt": "Welcome Bonus"
     }
   ],
   "Reviews": null,
@@ -379,8 +379,8 @@
       "question": "How do I find games where bets count toward the bonus wagering requirements?"
     }
   ],
-  "_generated_at": "2026-10-14T12:02:35.541Z",
+  "_generated_at": "2026-10-14T12:09:09.221Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T12:02:37.155Z",
-  "_deploy_trigger": "r1pedj"
+  "_last_deploy": "2026-10-14T12:09:09.857Z",
+  "_deploy_trigger": "fyvf8"
 }
