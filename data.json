@@ -5,7 +5,7 @@
   "url": "wakunacasino-nl.nl",
   "template": "tupchiy",
   "language_code": "nl-BE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -367,8 +367,8 @@
       "question": "Hoe installeer je Wakuna op je smartphone zonder het te downloaden via de App Store of Google Play?"
     }
   ],
-  "_generated_at": "2026-10-14T12:23:55.317Z",
+  "_generated_at": "2026-10-14T12:27:40.155Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T12:23:56.059Z",
-  "_deploy_trigger": "cmq24"
+  "_last_deploy": "2026-10-14T12:27:40.916Z",
+  "_deploy_trigger": "2264m"
 }
